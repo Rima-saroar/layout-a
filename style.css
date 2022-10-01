@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+}
+
+header{
+    height: 100px;
+    width: 100%;
+    background-color: lightgreen;
+    font-size: 30px;
+    text-align: center;
+}
+
+.banner-part{
+   
+}
+
+.banner{
+    height: 150px;
+    width: 100%;
+    background-color: rgb(83, 145, 83);
+    text-align: center;
+    font-size: 30px;
+}
+
+.article{
+   overflow: hidden; 
+}
+
+
+.left-block{
+
+    height: 200PX;
+   width: 50%;
+   background-color: rgb(8, 170, 119);
+   font-size: 30px;
+   text-align: center;
+   float: left;
+}
+
+
+.Right-block{
+    height: 200PX;
+    width: 50%;
+    background-color: rgb(19, 213, 139);
+    font-size: 30px;
+    text-align: center;
+    float: right;
+ }
+
+.item-all{
+overflow: hidden;
+}
+
+.item-1{
+height: 200px;
+width: 33.3%;
+background-color: lightcoral;
+float: left;
+
+}
+
+
+.item-2{
+ height: 200px;
+width: 33.3%;
+background-color: rgb(170, 24, 24);
+float: left;
+}
+
+
+
+.item-3{
+ height: 200px;
+width: 33.3%;
+background-color: lightcoral;
+float: left;
+}
+
+.ads-part{
+
+overflow: hidden;
+
+}
+
+
+.ads{
+    width: 50%;
+    height: 100px;
+    background-color: aqua;
+    float: left;
+}
+
+
+
+.img{
+    width: 50%;
+    height: 100px;
+    background-color: rgb(10, 86, 86);
+float: left;
+
+}
+
+footer{
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    color: aliceblue;
+    font-size: 30px;
+    text-align: center;
+}
